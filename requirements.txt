@@ -1,0 +1,5 @@
+# SYSCORE - System Resource Monitor & OS Resource Management
+# Dependencies
+psutil>=5.9.0
+customtkinter>=5.2.0
+matplotlib>=3.7.0
